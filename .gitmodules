@@ -1,3 +1,6 @@
 [submodule "bundle/vim-sensible"]
 	path = bundle/vim-sensible
 	url = http://github.com/tpope/vim-sensible.git
+[submodule "bundle/vim-polyglot"]
+	path = bundle/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
